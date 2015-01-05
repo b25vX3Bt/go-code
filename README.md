@@ -17,7 +17,9 @@ golang example codes.
 
 ### tool
 
-    $ go get github.com/peco/peco
+    $ go get golang.org/x/tools/cmd/...
+    $ go get github.com/nsf/gocode
+    $ go get github.com/peco/peco/cmd/peco
     $ go get github.com/motemen/ghq
     $ vi ~/.gitconfig
     ...
